@@ -419,4 +419,4 @@ def root():
     return FileResponse(frontend)
 
 # Serve frontend assets from the same FastAPI process, so only one command is needed.
-# Frontend is not needed for Streamlit deployment
+app.mount("/", StaticFiles(directory=str(BASE.parent / "frontend"), html=True), name="frontend")
