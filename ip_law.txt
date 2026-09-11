@@ -1,0 +1,6 @@
+# IP Law Source Notes
+## Patentability and exclusions
+Patentability analysis should consider novelty, inventive step, industrial applicability and statutory exclusions. Traditional knowledge that is already publicly known may be excluded from patent protection. Claims should be reviewed against relevant prior art before filing.
+
+## Traditional knowledge and prior art
+Traditional medicinal knowledge can form relevant prior art. A prior-art review should compare disclosed ingredients, formulations, processes, uses and other claim features.

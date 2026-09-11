@@ -1,0 +1,6 @@
+# Traditional Knowledge and Biodiversity Notes
+## TKDL pointer
+The Traditional Knowledge Digital Library is a reference resource for traditional medicinal knowledge, including Ayurveda, and supports prior-art identification. Publicly known traditional knowledge may affect patentability.
+
+## ABS screening
+Where biological resources or associated traditional knowledge are involved, assess whether access and benefit-sharing requirements apply and verify the current requirements of the competent authority.
